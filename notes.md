@@ -1,0 +1,1 @@
+- 2024-11-25 16:23:33: Added a note about JavaScript scopes
