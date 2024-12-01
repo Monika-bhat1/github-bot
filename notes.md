@@ -4,3 +4,4 @@
 - 2024-11-28 16:09:28: Added a note about JavaScript scopes
 - 2024-11-29 17:50:56: Added a note about JavaScript scopes
 - 2024-11-30 13:14:25: Added a note about JavaScript scopes
+- 2024-12-01 16:32:53: Added a note about JavaScript scopes
