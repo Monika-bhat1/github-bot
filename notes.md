@@ -13,3 +13,4 @@
 - 2024-12-09 13:06:36: Added a note about JavaScript scopes
 - 2024-12-11 12:45:02: Added a note about JavaScript scopes
 - 2024-12-12 10:47:41: Added a note about JavaScript scopes
+- 2024-12-13 10:48:45: Added a note about JavaScript scopes
