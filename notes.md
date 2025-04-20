@@ -91,3 +91,4 @@
 - 2025-04-16 12:08:12: Added a note about JavaScript scopes
 - 2025-04-17 10:27:32: Added a note about JavaScript scopes
 - 2025-04-18 15:34:30: Added a note about JavaScript scopes
+- 2025-04-20 14:35:26: Added a note about JavaScript scopes
